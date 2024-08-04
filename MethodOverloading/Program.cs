@@ -1,10 +1,16 @@
-﻿namespace MethodOverloading
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace MethodOverloading
 {
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var answer = Methods.Add(1,0,true);
+            Console.WriteLine(answer);
         }
+
     }
+
+    
 }
