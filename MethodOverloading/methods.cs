@@ -12,9 +12,9 @@ namespace MethodOverloading
         {
             return x + y;
         }
-        public static decimal Add(decimal x, decimal y)
+        public static decimal Add(decimal decx, decimal decy)
         {
-            return x + y;
+            return decx + decy;
         }
 
         public static string Add(int x, int y, bool withDollars)

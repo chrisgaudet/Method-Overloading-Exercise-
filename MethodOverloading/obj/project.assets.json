@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Repos\\Method-Overloading-Exercise-\\MethodOverloading\\MethodOverloading.csproj",
+      "projectUniqueName": "C:\\repos\\Method-Overloading-Exercise-\\MethodOverloading\\MethodOverloading.csproj",
       "projectName": "MethodOverloading",
-      "projectPath": "C:\\Users\\user\\Repos\\Method-Overloading-Exercise-\\MethodOverloading\\MethodOverloading.csproj",
+      "projectPath": "C:\\repos\\Method-Overloading-Exercise-\\MethodOverloading\\MethodOverloading.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Repos\\Method-Overloading-Exercise-\\MethodOverloading\\obj\\",
+      "outputPath": "C:\\repos\\Method-Overloading-Exercise-\\MethodOverloading\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
